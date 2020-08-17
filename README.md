@@ -20,7 +20,7 @@ entropy. For entropy checks, tartufo will evaluate the shannon entropy for both
 the base64 char set and hexidecimal char set for every blob of text greater
 than 20 characters comprised of those character sets in each diff. If at any
 point a high entropy string > 20 characters is detected, it will print to the
-screen.
+screen for you.
 
 ## Example
 
